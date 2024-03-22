@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "e885ej5wtB2DsXSG7MQ+nYbs0vh3tnLJi6oO8k/zTk/Nwg72Fdc43shHsrND1bFHnmxu6xdeE25xNRkiHI0LQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fiveb\\source\\repos\\gladiator\\gladiator\\gladiator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fiveb\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\fiveb\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\fiveb\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\fiveb\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\fiveb\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\fiveb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
